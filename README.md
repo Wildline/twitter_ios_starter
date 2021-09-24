@@ -29,5 +29,5 @@ le='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
-<img src= "![](https://i.imgur.com/qtHSU37.gif)"
+<img2 src= "![](https://i.imgur.com/qtHSU37.gif)"
 title='Video Walkthrough' width='' alt='Video Walkthrough' />
